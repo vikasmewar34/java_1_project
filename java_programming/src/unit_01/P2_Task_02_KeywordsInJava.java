@@ -50,7 +50,7 @@ public class P2_Task_02_KeywordsInJava {
 			System.out.println("another class");
 		}
 	}
-	
+
 	class ABC{
 		void display() {
 			System.out.println("another class");
